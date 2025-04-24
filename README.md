@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/cnabhijith?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/abhijith-cn">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijith%20cn-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
