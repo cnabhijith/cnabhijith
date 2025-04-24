@@ -4,7 +4,7 @@
   <img src="https://github.com/cnabhijith/cnabhijith/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India.</h3>
 
 <p align="center">
   <a href="https://github.com/cnabhijith">
@@ -26,7 +26,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cnabhijith](https://github.com/cnabhijith)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
 
 ---
 
@@ -79,10 +78,5 @@
 ---
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
