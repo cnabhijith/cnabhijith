@@ -10,10 +10,7 @@
   <a href="https://github.com/cnabhijith">
     <img src="https://img.shields.io/github/followers/cnabhijith?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://linkedin.com/in/abhijith-cn">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
