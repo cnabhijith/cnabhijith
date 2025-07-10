@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Abhijith CN </h1>
 
 <div align="center">
-  <img src="https://github.com/cnabhijith/cnabhijith/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/cnabhijith/cnabhijith/blob/main/Banner1.png" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
